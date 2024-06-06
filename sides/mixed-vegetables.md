@@ -10,3 +10,4 @@
 
 - cut 1
 - cut 2
+- mix all
